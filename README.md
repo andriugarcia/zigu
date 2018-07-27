@@ -31,3 +31,7 @@ git push origin master
 ```
 
 Las publicaciones automaticamente se mandan al hosting y actualiza la página
+
+## Página Web
+
+[Acceder a la página web](https://zigu.herokuapp.com/ "Página de Zigu")
